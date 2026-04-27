@@ -85,9 +85,5 @@ Comandos utilizados:
 ```bash
 npm run build
 firebase deploy
+```
 
----
-
-## 👨‍💻 Desenvolvedor
-
-Desenvolvido por Luiz Fernando Alves Moreira
