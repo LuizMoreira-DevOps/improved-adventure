@@ -87,3 +87,6 @@ npm run build
 firebase deploy
 ```
 
+## 👨‍💻 Desenvolvido por 
+Luiz Fernando Alves Moreira
+
